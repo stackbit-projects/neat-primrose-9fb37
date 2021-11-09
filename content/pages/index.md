@@ -213,6 +213,7 @@ sections:
         justifyContent: center
         borderRadius: small
         borderColor: border-complementary
+        borderStyle: dashed
     enableHover: true
   - colors: colors-e
     backgroundWidth: full
