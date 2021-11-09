@@ -214,6 +214,7 @@ sections:
         borderRadius: small
         borderColor: border-complementary
         borderStyle: dashed
+        borderWidth: 2
     enableHover: true
   - colors: colors-e
     backgroundWidth: full
