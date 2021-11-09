@@ -213,7 +213,7 @@ sections:
         justifyContent: center
         borderRadius: small
         borderColor: border-complementary
-        borderStyle: dashed
+        borderStyle: solid
         borderWidth: 2
     enableHover: true
   - colors: colors-e
