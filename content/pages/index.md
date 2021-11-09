@@ -211,6 +211,7 @@ sections:
           - pb-4
         alignItems: flex-end
         justifyContent: center
+        borderRadius: small
     enableHover: true
   - colors: colors-e
     backgroundWidth: full
