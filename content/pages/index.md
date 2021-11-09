@@ -214,7 +214,7 @@ sections:
         borderRadius: small
         borderColor: border-complementary
         borderStyle: solid
-        borderWidth: 2
+        borderWidth: 0
     enableHover: true
   - colors: colors-e
     backgroundWidth: full
