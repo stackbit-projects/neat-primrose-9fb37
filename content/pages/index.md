@@ -212,6 +212,7 @@ sections:
         alignItems: flex-end
         justifyContent: center
         borderRadius: small
+        borderColor: border-complementary
     enableHover: true
   - colors: colors-e
     backgroundWidth: full
