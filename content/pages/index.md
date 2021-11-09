@@ -201,7 +201,7 @@ sections:
         url: /images/hilary-ouse.jpg
     styles:
       self:
-        height: screen
+        height: auto
         width: wide
         margin:
           - mt-0
