@@ -137,7 +137,7 @@ sections:
     type: TextSection
   - type: MediaGallerySection
     showCaption: true
-    spacing: 1
+    spacing: 2
     imageSizePx: 150
     colors: colors-e
     backgroundWidth: full
