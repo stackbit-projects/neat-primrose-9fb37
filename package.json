@@ -12,7 +12,7 @@
     },
     "dependencies": {
         "@stackbit/cli": "^0.1.14",
-        "@stackbit/components": "github:stackbitfa3842ed5f8dd4926963a844e4bdfbf32d1da3be",
+        "@stackbit/components": "github:stackbit/stackbit-components/fa3842ed5f8dd4926963a844e4bdfbf32d1da3be",
         "axios": "^0.18.0",
         "classnames": "^2.3.1",
         "jose": "^3.14.3",
